@@ -5,7 +5,7 @@ A simple python web server using flask and waitress
 
 file structure:
 
-`
+```
 Waitress-Web-Server/
 --- Files/
 --- --- index.html
@@ -14,6 +14,6 @@ Waitress-Web-Server/
 --- --- --- *.css
 --- --- --- *.jpg
 --- webserver.py
-`
+```
 
 run : `python3 -m uv run webserver.py`
